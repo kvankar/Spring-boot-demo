@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'kvwebapp1234'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54F152EF051E443CBE499FE675448D80 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9C65F35E673A4EB0AEAB5EF30807426C }}
           package: '*.jar'
